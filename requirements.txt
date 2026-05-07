@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-aws
+langchain-community
+langchain-core
+langchain-tavily
+tavily-python
+boto3
+python-dotenv
+streamlit
+# pip install -r requirements.txt
